@@ -1,0 +1,30 @@
+{
+  "name": "learnapi",
+  "version": "1.0.0",
+  "description": "Learning to build and test an api using express and morgan.",
+  "main": "app.js",
+  "scripts": {
+    "test": "Change this text message for your build."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwilsonstudios/api-test-with-postman.git"
+  },
+  "keywords": [
+    "api",
+    "express",
+    "middelware",
+    "morgan",
+    "postman"
+  ],
+  "author": "DWilson Studios",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dwilsonstudios/api-test-with-postman/issues"
+  },
+  "homepage": "https://github.com/dwilsonstudios/api-test-with-postman#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
